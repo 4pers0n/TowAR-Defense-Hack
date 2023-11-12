@@ -230,6 +230,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   partToRotate: {fileID: 6258437709500327104}
   fireRate: 1
+  clip: {fileID: 0}
   bulletSpawnPoint: {fileID: 2049210749424197157}
   bulletPrefab: {fileID: 3768988107609374038, guid: 742c66dfde5904ae39c41b76a63fdc30,
     type: 3}
